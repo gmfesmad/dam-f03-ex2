@@ -1,12 +1,12 @@
 {
-  "name": "Euromilhões - Gerador de Chaves",
-  "short_name": "Euromilhões",
-  "theme_color": "#393998",
-  "background_color": "#393998",
-  "display": "standalone",
+  "name": "Account Maker",
+  "short_name": "Account Maker",
+  "theme_color": "#5c0632",
+  "background_color": "#5c0632",
+  "display": "fullScreen",
   "orientation": "portrait",
   "scope": "/",
-  "start_url": "https://gmfesmad.github.io/dam-f03/",
+  "start_url": "https://gmfesmad.github.io/dam-f03-ex2/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
